@@ -27,8 +27,8 @@ The scope restriction is intentionally treated as a risk control.
 | Deployment decision | [04_Governance/governance_decision.md](04_Governance/governance_decision.md) |
 | Control design | [05_Controls/control_matrix.md](05_Controls/control_matrix.md) |
 | System/control architecture | [06_Diagrams/ai_governance_control_flow.png](06_Diagrams/ai_governance_control_flow.png) |
-| Evidence trail | [01_Research/research_log.md](01_Research/research_log.md) and [08_References/sources.md](08_References/sources.md) |
-| Final assessment | [07_Final/NIST_AI_RMF_Assessment_Final.pdf](07_Final/NIST_AI_RMF_Assessment_Final.pdf) |
+| Evidence trail | [01_Research/research_log.md](01_Research/research_log.md) and [08_References/sources.md](09_References/sources.md) |
+| Final assessment | [08_Final/NIST_AI_RMF_Assessment_Final.pdf](08_Final/NIST_AI_RMF_Assessment_Final.pdf) |
 ## Important scope note
 
 Northstar is fictional. The risk ratings, governance bodies, incidents, policies, and internal operating assumptions are illustrative and are not claims about a real organization.
